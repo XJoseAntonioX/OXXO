@@ -30,7 +30,7 @@ Gracias al uso de servicios de inteligencia artificial de Azure, como Azure Open
 
 GIPlan combina herramientas modernas de desarrollo web y servicios de inteligencia artificial:
 
-![Arquitectura GIPlan](assets/ArquitecturaGIPlan.png)
+![Arquitectura GIPlan](assets/assets/ArquitecturaGIPlan.png)
 
 * **Frontend**: Next.js + Tailwind CSS
 * **Backend**: Flask + Python
