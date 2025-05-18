@@ -67,17 +67,16 @@ Como equipo consideramos que es fundamental implementar soluciones de Inteligenc
 ```
 GIPlan/
 ├── README.md
-└── my-app/
+├── assets/
+│   ├── GIPLANPortada.png
+│   └── ArquitecturaGIPlan.png
+└── app/
     ├── .gitignore
-    ├── Generar Estante Bien.ipynb
     ├── next.config.ts
     ├── package.json
     ├── postcss.config.mjs
-    ├── README.md
     ├── requirements.txt
     ├── tsconfig.json
-    ├── xd.py
-    ├── xd2.py
     ├── public/
     │   ├── Oxxo_Logo.svg
     │   ├── Planograma_bueno.csv
@@ -87,14 +86,19 @@ GIPlan/
     │   │   ├── Estante_2.png
     │   │   ├── goodtexture.jpg
     │   │   └── plastic.jpg
-    │   └── Product images/
-    │       └── Archivos de imagenes
-    └── src/
-        └── app/
-            ├── favicon.ico
-            ├── globals.css
-            ├── layout.tsx
-            └── page.tsx
+    │   └── Product_images/
+    │       └── [Archivos de imágenes]
+    ├── src/
+    │   └── app/
+    │       ├── favicon.ico
+    │       ├── globals.css
+    │       ├── layout.tsx
+    │       └── page.tsx
+    ├── notebooks/
+    │   └── Generar_Estante_Bien.ipynb
+    └── backend/
+        ├── xd.py
+        └── xd2.py
 ```
 ## Costos: 
 Para el preprocesamiento de los nombres se utiliza el servicio de azure Open AI. El modelo utilizado GPT 3.5-Turbo tiene un costo de $0.0020 por 1,000 tokens. Por la forma en la que está diseñada la solución, solo se debe de utilizar una vez este servicio para generar los nombres adecuados y posteriormente se exporta a un csv, ahorrando llamadas innecesarias o repetitivas al servicio, Pues para cada planograma nuevo solo se deben de preprocesar una vez los nombres de los productos.
