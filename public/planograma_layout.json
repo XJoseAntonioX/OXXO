@@ -1,0 +1,753 @@
+[
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "Atun Dolores aceite 295gr lata",
+    "x": 40,
+    "y": 389,
+    "w": 26,
+    "h": 13,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Atun Dolores aceite 295gr lata.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "ATUN DOLORES EN ACEITE 130GRS",
+    "x": 76,
+    "y": 394,
+    "w": 22,
+    "h": 8,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\ATUN DOLORES EN ACEITE 130GRS.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "Atun Mazatun Agua Sin Soya 130grs",
+    "x": 109,
+    "y": 394,
+    "w": 22,
+    "h": 9,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Atun Mazatun Agua Sin Soya 130grs.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "DOLORES ENSALADA CON VERDURAS MAXI CUP CAN 240gr",
+    "x": 142,
+    "y": 391,
+    "w": 26,
+    "h": 11,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\DOLORES ENSALADA CON VERDURAS MAXI CUP CAN 240gr.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "Dolores SURFY  Cup Can Elotitos 24 135 gr",
+    "x": 179,
+    "y": 390,
+    "w": 23,
+    "h": 12,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Dolores SURFY  Cup Can Elotitos 24 135 gr.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "Ensalada Atun Mazatun  CupCan",
+    "x": 212,
+    "y": 390,
+    "w": 23,
+    "h": 12,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Ensalada Atun Mazatun  CupCan.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 1,
+    "sku": "Papel aluminio festivo rollo 76 m X 30 cm pz",
+    "x": 246,
+    "y": 318,
+    "w": 13,
+    "h": 84,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Papel aluminio festivo rollo 76 m X 30 cm pz.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "PLC NUTRALAT FORTE 1.5 LT",
+    "x": 40,
+    "y": 230,
+    "w": 21,
+    "h": 58,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\PLC NUTRALAT FORTE 1.5 LT.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "PLC NUTRALAT FORTE 1LT",
+    "x": 71,
+    "y": 249,
+    "w": 23,
+    "h": 39,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\PLC NUTRALAT FORTE 1LT.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "La Lechera Sirve Facil 335gr Bote",
+    "x": 105,
+    "y": 254,
+    "w": 17,
+    "h": 34,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\La Lechera Sirve Facil 335gr Bote.png",
+    "color": [
+      65,
+      96,
+      61
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "CARNATION Leche Evaporada 720g",
+    "x": 133,
+    "y": 249,
+    "w": 17,
+    "h": 39,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\CARNATION Leche Evaporada 720g.png",
+    "color": [
+      65,
+      96,
+      61
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "Azucar Estandar La Posada 1 kg",
+    "x": 160,
+    "y": 256,
+    "w": 53,
+    "h": 32,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Azucar Estandar La Posada 1 kg.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 2,
+    "sku": "Arroz La Posada 900 gr",
+    "x": 224,
+    "y": 251,
+    "w": 66,
+    "h": 36,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Arroz La Posada 900 gr.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "CAFE SOLUBLE ANDATTI DESCAFEINADO 275G",
+    "x": 40,
+    "y": 157,
+    "w": 17,
+    "h": 42,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\CAFE SOLUBLE ANDATTI DESCAFEINADO 275G.png",
+    "color": [
+      252,
+      146,
+      63
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "Cafe Soluble Andatti 275g",
+    "x": 67,
+    "y": 158,
+    "w": 19,
+    "h": 42,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Cafe Soluble Andatti 275g.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "ACEITE VEGETAL LA POSADA 800 ML",
+    "x": 97,
+    "y": 152,
+    "w": 15,
+    "h": 47,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\ACEITE VEGETAL LA POSADA 800 ML.png",
+    "color": [
+      252,
+      146,
+      63
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "Aceite Comestible Nutrioli 850ml",
+    "x": 122,
+    "y": 148,
+    "w": 16,
+    "h": 52,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Aceite Comestible Nutrioli 850ml.png",
+    "color": [
+      126,
+      57,
+      29
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "ACEITE NUTRIOLI 400 ML",
+    "x": 148,
+    "y": 157,
+    "w": 13,
+    "h": 42,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\ACEITE NUTRIOLI 400 ML.png",
+    "color": [
+      126,
+      57,
+      29
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "Sabrosano Mantequila 850 ml",
+    "x": 172,
+    "y": 148,
+    "w": 14,
+    "h": 51,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Sabrosano Mantequila 850 ml.png",
+    "color": [
+      126,
+      57,
+      29
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "Frijol La Sierra Chorizo 430 bolsa",
+    "x": 196,
+    "y": 162,
+    "w": 27,
+    "h": 37,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Frijol La Sierra Chorizo 430 bolsa.png",
+    "color": [
+      254,
+      219,
+      214
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 3,
+    "sku": "Frijol Pinto La Posada 900gr",
+    "x": 234,
+    "y": 169,
+    "w": 55,
+    "h": 31,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Frijol Pinto La Posada 900gr.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "Chicharron de Cerdo Natural Bitz 120 gr",
+    "x": 40,
+    "y": 54,
+    "w": 34,
+    "h": 64,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Chicharron de Cerdo Natural Bitz 120 gr.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "Chicharron de Cerdo Intenso Bitz 120 gr.",
+    "x": 84,
+    "y": 54,
+    "w": 34,
+    "h": 64,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Chicharron de Cerdo Intenso Bitz 120 gr..png",
+    "color": [
+      252,
+      146,
+      63
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "CHEETOS TORCIDITOS 240GR",
+    "x": 128,
+    "y": 50,
+    "w": 37,
+    "h": 68,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\CHEETOS TORCIDITOS 240GR.png",
+    "color": [
+      229,
+      34,
+      242
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "RUFFLES QUESO 185GR",
+    "x": 175,
+    "y": 50,
+    "w": 40,
+    "h": 68,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\RUFFLES QUESO 185GR.png",
+    "color": [
+      201,
+      223,
+      190
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "Papas Chips Barcel 170 gr bolsa con sal",
+    "x": 226,
+    "y": 52,
+    "w": 40,
+    "h": 66,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Papas Chips Barcel 170 gr bolsa con sal.png",
+    "color": [
+      90,
+      100,
+      143
+    ]
+  },
+  {
+    "grupo": 1,
+    "charola": 4,
+    "sku": "Takis Blue 75g",
+    "x": 276,
+    "y": 73,
+    "w": 26,
+    "h": 44,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Takis Blue 75g.png",
+    "color": [
+      246,
+      79,
+      193
+    ]
+  },
+
+  {
+    "grupo": 2,
+    "charola": 5,
+    "sku": "Papel Regio Rinde 4pz",
+    "x": 40,
+    "y": 344,
+    "w": 53,
+    "h": 53,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Papel Regio Rinde 4pz.png",
+    "color": [
+      126,
+      57,
+      29
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 5,
+    "sku": "Higienico Suavel 325h 4rollos",
+    "x": 103,
+    "y": 345,
+    "w": 58,
+    "h": 52,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Higienico Suavel 325h 4rollos.png",
+    "color": [
+      209,
+      70,
+      250
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 5,
+    "sku": "Higienico Cottonelle Elegance XL 252h",
+    "x": 171,
+    "y": 336,
+    "w": 59,
+    "h": 60,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Higienico Cottonelle Elegance XL 252h.png",
+    "color": [
+      209,
+      70,
+      250
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 5,
+    "sku": "Hig Petalo UltraJumbo 6s 234h",
+    "x": 240,
+    "y": 345,
+    "w": 69,
+    "h": 52,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Hig Petalo UltraJumbo 6s 234h.png",
+    "color": [
+      209,
+      70,
+      250
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 6,
+    "sku": "DETERGENTE AZALEA MULTIUSOS 800G",
+    "x": 40,
+    "y": 237,
+    "w": 48,
+    "h": 69,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\DETERGENTE AZALEA MULTIUSOS 800G.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 6,
+    "sku": "PAPEL HIGIENICO AZALEA 4 ROLLOS 350 HOJAS",
+    "x": 98,
+    "y": 253,
+    "w": 59,
+    "h": 53,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\PAPEL HIGIENICO AZALEA 4 ROLLOS 350 HOJAS.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 6,
+    "sku": "PAPEL HIGIENICO AZALEA 4S CON AROMA",
+    "x": 167,
+    "y": 253,
+    "w": 59,
+    "h": 53,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\PAPEL HIGIENICO AZALEA 4S CON AROMA.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 6,
+    "sku": "Papel Higiénico Azálea 6 Rollos 500 Hojas",
+    "x": 236,
+    "y": 253,
+    "w": 72,
+    "h": 53,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Papel Higiénico Azálea 6 Rollos 500 Hojas.png",
+    "color": [
+      252,
+      146,
+      63
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "Aceite para bebe Baby Magic Mennen 100 ml bote",
+    "x": 40,
+    "y": 181,
+    "w": 10,
+    "h": 25,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Aceite para bebe Baby Magic Mennen 100 ml bote.png",
+    "color": [
+      126,
+      57,
+      29
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "Shampoo KleenBebe Manzanilla 250ml",
+    "x": 60,
+    "y": 169,
+    "w": 15,
+    "h": 37,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Shampoo KleenBebe Manzanilla 250ml.png",
+    "color": [
+      209,
+      70,
+      250
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "Panales Tikytin 14pz T4",
+    "x": 85,
+    "y": 165,
+    "w": 32,
+    "h": 41,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Panales Tikytin 14pz T4.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "Panales Tikytin 14pz T5",
+    "x": 128,
+    "y": 165,
+    "w": 32,
+    "h": 41,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Panales Tikytin 14pz T5.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "Tikytin Ultra talla 5 X-Grande 364",
+    "x": 171,
+    "y": 153,
+    "w": 22,
+    "h": 53,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Tikytin Ultra talla 5 X-Grande 364.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "NAN 1 OPTIPRO Formula Infantil 12x400gMX",
+    "x": 204,
+    "y": 177,
+    "w": 20,
+    "h": 29,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\NAN 1 OPTIPRO Formula Infantil 12x400gMX.png",
+    "color": [
+      65,
+      96,
+      61
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "NAN 2 OPTIPRO Formula Infantil 12x400gMX",
+    "x": 234,
+    "y": 177,
+    "w": 20,
+    "h": 29,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\NAN 2 OPTIPRO Formula Infantil 12x400gMX.png",
+    "color": [
+      65,
+      96,
+      61
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 7,
+    "sku": "NAN 3 OPTIPRO FI Lata 12x400g MX",
+    "x": 265,
+    "y": 177,
+    "w": 20,
+    "h": 29,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\NAN 3 OPTIPRO FI Lata 12x400g MX.png",
+    "color": [
+      65,
+      96,
+      61
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA BIOLEVE 1.5 LTS",
+    "x": 40,
+    "y": 50,
+    "w": 18,
+    "h": 73,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA BIOLEVE 1.5 LTS.png",
+    "color": [
+      119,
+      53,
+      221
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA ALCALINA VITAWA 1.5 LTS",
+    "x": 68,
+    "y": 57,
+    "w": 19,
+    "h": 65,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA ALCALINA VITAWA 1.5 LTS.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA ALCALINA VITAWA 1.5 LTS",
+    "x": 98,
+    "y": 57,
+    "w": 19,
+    "h": 65,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA ALCALINA VITAWA 1.5 LTS.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA ALCALINA VITAWA 1LT",
+    "x": 128,
+    "y": 65,
+    "w": 17,
+    "h": 58,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA ALCALINA VITAWA 1LT.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA ALCALINA VITAWA 1LT",
+    "x": 155,
+    "y": 65,
+    "w": 17,
+    "h": 58,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA ALCALINA VITAWA 1LT.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "Agua Bioleve 1L 6pack",
+    "x": 183,
+    "y": 62,
+    "w": 35,
+    "h": 60,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\Agua Bioleve 1L 6pack.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  },
+  {
+    "grupo": 2,
+    "charola": 8,
+    "sku": "AGUA PURIFICADA BIOLEVE 0.5L 8 PACK",
+    "x": 229,
+    "y": 80,
+    "w": 59,
+    "h": 43,
+    "img": "C:\\Users\\e-malandaf\\Downloads\\FEMSA\\assets\\Product images\\AGUA PURIFICADA BIOLEVE 0.5L 8 PACK.png",
+    "color": [
+      103,
+      191,
+      210
+    ]
+  }
+]
