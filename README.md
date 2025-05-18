@@ -1,7 +1,7 @@
 # GIPlan
 ## Planograma visual, auditivo, fácil de implementar
 
-![Presentando GIPlan](assets/GIPLANPortada.png)
+![Presentando GIPlan](assets/GIPLANPortada.PNG)
 
 ## Descripción general
 
