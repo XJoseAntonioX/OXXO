@@ -67,38 +67,41 @@ Como equipo consideramos que es fundamental implementar soluciones de Inteligenc
 ```
 GIPlan/
 ├── README.md
-├── assets/
+├── assets/                   # Assets for documentation
 │   ├── GIPLANPortada.png
-│   └── ArquitecturaGIPlan.png
-└── app/
-    ├── .gitignore
-    ├── next.config.ts
-    ├── package.json
-    ├── postcss.config.mjs
+│   ├── ArquitecturaGIPlan.png
+│   └── PresentacionGIPlanFEMSAHackathon.pdf
+├── frontend/                 # Next.js frontend application
+│   ├── .gitignore
+│   ├── next.config.js
+│   ├── package.json
+│   ├── postcss.config.mjs
+│   ├── tsconfig.json
+│   ├── public/
+│   │   ├── Oxxo_Logo.svg
+│   │   ├── planograma_layout.json
+│   │   ├── Planogramas/
+│   │   │   ├── Estante_1.png
+│   │   │   ├── Estante_2.png
+│   │   │   ├── goodtexture.jpg
+│   │   │   └── plastic.jpg
+│   │   └── Product_images/
+│   │       └── [Archivos de imágenes]
+│   └── src/
+│       └── app/
+│           ├── favicon.ico
+│           ├── globals.css
+│           ├── layout.tsx
+│           └── page.tsx
+└── backend/                  # Flask backend services
     ├── requirements.txt
-    ├── tsconfig.json
-    ├── public/
-    │   ├── Oxxo_Logo.svg
-    │   ├── Planograma_bueno.csv
-    │   ├── planograma_layout.json
-    │   ├── Planogramas/
-    │   │   ├── Estante_1.png
-    │   │   ├── Estante_2.png
-    │   │   ├── goodtexture.jpg
-    │   │   └── plastic.jpg
-    │   └── Product_images/
-    │       └── [Archivos de imágenes]
-    ├── src/
-    │   └── app/
-    │       ├── favicon.ico
-    │       ├── globals.css
-    │       ├── layout.tsx
-    │       └── page.tsx
-    ├── notebooks/
-    │   └── Generar_Estante_Bien.ipynb
-    └── backend/
-        ├── xd.py
-        └── xd2.py
+    ├── app.py                # Main Flask application
+    ├── services/             # Backend service modules
+    │   └── product_processor.py
+    ├── data/                 # Data files
+    │   └── Planograma_bueno.csv
+    └── notebooks/
+        └── Generar_Estante_Bien.ipynb
 ```
 ## Costos: 
 Para el preprocesamiento de los nombres se utiliza el servicio de azure Open AI. El modelo utilizado GPT 3.5-Turbo tiene un costo de $0.0020 por 1,000 tokens. Por la forma en la que está diseñada la solución, solo se debe de utilizar una vez este servicio para generar los nombres adecuados y posteriormente se exporta a un csv, ahorrando llamadas innecesarias o repetitivas al servicio, Pues para cada planograma nuevo solo se deben de preprocesar una vez los nombres de los productos.
