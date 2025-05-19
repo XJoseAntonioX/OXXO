@@ -119,7 +119,7 @@ Sigue estos pasos para ejecutar GIPlan en tu entorno local:
 - Cuenta de Azure con acceso a Azure OpenAI Service
 
 ### Configuración del Backend
-
+xd
 1. Asegurate de que tu directorio apunte a la carpeta de "OXXO"
 
 2. Crea y activa un entorno virtual en terminal (opcional pero recomendado):
