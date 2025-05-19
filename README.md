@@ -137,7 +137,7 @@ Sigue estos pasos para ejecutar GIPlan en tu entorno local:
    ```bash
    python audio.py
    ```
-   La API estará disponible para usarse en `http://localhost:3000`.
+   La API estará disponible para usarse en `http://localhost:8000`.
 
 5. Asegurarse de tener instalado node:
    ```bash
