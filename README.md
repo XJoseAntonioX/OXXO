@@ -115,8 +115,7 @@ Sigue estos pasos para ejecutar GIPlan en tu entorno local:
 
 - [Python](https://www.python.org/downloads/) (v3.8 o superior)
 - [Node.js](https://nodejs.org/) (v18 o superior)
-- [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
-- Cuenta de Azure con acceso a Azure OpenAI Service
+- [npm](https://www.npmjs.com/)
 
 ### Configuración del Backend
 
