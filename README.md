@@ -13,8 +13,17 @@ Gracias al uso de servicios de inteligencia artificial de Azure, como Azure Open
 
 * **Planograma animado**: Visualización dinámica que muestra cómo deben colocarse los productos paso a paso.
 * **Instrucciones de audio**: Guía auditiva sincronizada con la animación para facilitar el proceso de implementación.
+
+![Guia GIPlan](assets/Guia.png)
+
 * **Preprocesamiento inteligente**: Uso de modelos de lenguaje (Azure OpenAI) para limpiar y estructurar nombres de productos.
+
+![Upload GIPlan](assets/Subir_Archivo.png)
+
 * **Interfaz moderna**: Aplicación web construida con Next.js y Tailwind CSS.
+
+![Interfaz GIPlan](assets/Planograma_Construido.png)
+
 * **Backend robusto**: Gestión de lógica y rutas API usando Python y Flask.
 
 ### Solución a las problemáticas
@@ -65,44 +74,48 @@ Como equipo consideramos que es fundamental implementar soluciones de Inteligenc
 ## Estructura del proyecto
 
 ```
-GIPlan/
-├── README.md
-├── assets/                   # Assets for documentation
+OXXO/
+├── .next/
+├── .venv/
+├── assets/
 │   ├── GIPLANPortada.png
 │   ├── ArquitecturaGIPlan.png
 │   └── PresentacionGIPlanFEMSAHackathon.pdf
-├── frontend/                 # Next.js frontend application
-│   ├── .gitignore
-│   ├── next.config.js
-│   ├── package.json
-│   ├── postcss.config.mjs
-│   ├── tsconfig.json
-│   ├── public/
-│   │   ├── Oxxo_Logo.svg
-│   │   ├── planograma_layout.json
-│   │   ├── Planogramas/
-│   │   │   ├── Estante_1.png
-│   │   │   ├── Estante_2.png
-│   │   │   ├── goodtexture.jpg
-│   │   │   └── plastic.jpg
-│   │   └── Product_images/
-│   │       └── [Archivos de imágenes]
-│   └── src/
-│       └── app/
-│           ├── favicon.ico
-│           ├── globals.css
-│           ├── layout.tsx
-│           └── page.tsx
-└── backend/                  # Flask backend services
-    ├── requirements.txt
-    ├── app.py                # Main Flask application
-    ├── services/             # Backend service modules
-    │   └── product_processor.py
-    ├── data/                 # Data files
-    │   └── Planograma_bueno.csv
-    └── notebooks/
-        └── Generar_Estante_Bien.ipynb
+├── node_modules/
+├── public/
+│   ├── Planogramas/
+│   │   ├── Estante_1.png
+│   │   ├── Estante_2.png
+│   │   ├── goodtexture.jpg
+│   │   └── plastic.jpg
+│   ├── Product_images/
+│   │   └── [Archivos de imágenes]
+│   ├── Oxxo_Logo.svg
+│   └── planograma_layout.json
+├── src/
+│   └── app/
+│       ├── upload/
+│       │   └── page.tsx
+│       ├── favicon.ico
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── .gitignore
+├── audio.py
+├── favicon.ico
+├── next.config.js
+├── next-env.d.ts
+├── package-lock.json
+├── package.json
+├── planograma_bueno.csv
+├── planograma_layout.json
+├── postcss.config.mjs
+├── README.md
+├── requirements.txt
+├── run_server.bat
+└── tsconfig.json
 ```
+
 ## Costos: 
 Para el preprocesamiento de los nombres se utiliza el servicio de azure Open AI. El modelo utilizado GPT 3.5-Turbo tiene un costo de $0.0020 por 1,000 tokens. Por la forma en la que está diseñada la solución, solo se debe de utilizar una vez este servicio para generar los nombres adecuados y posteriormente se exporta a un csv, ahorrando llamadas innecesarias o repetitivas al servicio, Pues para cada planograma nuevo solo se deben de preprocesar una vez los nombres de los productos.
 Para este escenario, el preprocesamiento de los 48 productos consumió un total de 6.73k tokens, lo que se traduce a un costo mensual de $0.01 dólares.
