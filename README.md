@@ -107,6 +107,60 @@ GIPlan/
 Para el preprocesamiento de los nombres se utiliza el servicio de azure Open AI. El modelo utilizado GPT 3.5-Turbo tiene un costo de $0.0020 por 1,000 tokens. Por la forma en la que está diseñada la solución, solo se debe de utilizar una vez este servicio para generar los nombres adecuados y posteriormente se exporta a un csv, ahorrando llamadas innecesarias o repetitivas al servicio, Pues para cada planograma nuevo solo se deben de preprocesar una vez los nombres de los productos.
 Para este escenario, el preprocesamiento de los 48 productos consumió un total de 6.73k tokens, lo que se traduce a un costo mensual de $0.01 dólares.
 
+## Installation and Setup
+
+Sigue estos pasos para ejecutar GIPlan en tu entorno local:
+
+### Prerrequisitos
+
+- [Python](https://www.python.org/downloads/) (v3.8 o superior)
+- [Node.js](https://nodejs.org/) (v18 o superior)
+- [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
+- Cuenta de Azure con acceso a Azure OpenAI Service
+
+### Configuración del Backend
+
+1. Asegurate de que tu directorio apunte a la carpeta de "OXXO"
+
+2. Crea y activa un entorno virtual en terminal (opcional pero recomendado):
+   ```bash
+   # Para Windows
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Inicia el servidor para el audio que se usará para la página:
+   ```bash
+   python audio.py
+   ```
+   La API estará disponible para usarse en `http://localhost:3000`.
+
+5. Asegurarse de tener instalado node:
+   ```bash
+   npm install
+   # o
+   yarn install
+   ```
+
+6. Ejecuta el script que permitirá disponer de la página web localmente:
+   ```bash
+   npm run dev
+   ```
+   La aplicación frontend se ejecutará en `http://localhost:3000`.
+
+### Acceso a la aplicación
+
+Una vez que ambos servidores estén en ejecución, puedes acceder a GIPlan abriendo tu navegador y visitando:
+
+```
+http://localhost:3000
+```
+
 ## Futuros pasos
 
 * **Transcripción de voz**: Convertir instrucciones habladas de los supervisores en nuevos planogramas automáticamente.
